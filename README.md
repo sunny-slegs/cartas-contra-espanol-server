@@ -17,7 +17,7 @@ __________________________
 ![Landing Page](./screen-shots/LG_LP.JPG)
 
 ##### Registration Page
-![Registration Page](./screen-shots/LG_RP.JGP)
+![Registration Page](./screen-shots/LG_RP.JPG)
 
 ##### Game Screen
 ![Game Search](./screen-shots/LG_GS.JPG)
